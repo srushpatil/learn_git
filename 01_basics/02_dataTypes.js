@@ -1,5 +1,8 @@
 "use strict" //treat all js code as new version
 
+/*Primitive : 7 types : String, number, Boolean, null, undefined, symbol*/
+/*Non- Primitive or Reference : Arrays, Objects, Functions*/
+
 //alert(3,3) //error occurs coz we are using nodejs not browser
 
 console.log(3+3)
